@@ -28,8 +28,8 @@ MitraAI blends **AI-driven dialogue, dual emotion analysis, and speech interacti
 
 ```bash
 # Clone repo
-git clone https://github.com/Vc555s/mitra-ai.git
-cd mitra-ai
+git clone https://github.com/Vc555s/Mitra-AI.git
+cd Mitra-AI
 
 # Backend (Flask API)
 pip install -r requirements.txt
